@@ -1,4 +1,3 @@
-Here’s a detailed `README.md` documentation for your project analyzing Los Angeles crime data:
 
 ---
 
